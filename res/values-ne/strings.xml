@@ -28,7 +28,7 @@
     <string name="callFailed_timedOut" msgid="6780964135550644777">"कुनै पनि जवाफ छैन, समय सकियो।"</string>
     <string name="callFailed_server_unreachable" msgid="7004372091099175338">"सर्भर पहुँच बाहिर"</string>
     <string name="callFailed_number_unreachable" msgid="2855741498610643943">"संख्या पहुँच बाहिर"</string>
-    <string name="callFailed_invalid_credentials" msgid="1915881596632385418">"गलत एक-पटके पाठ सन्देश वा पासवर्ड"</string>
+    <string name="callFailed_invalid_credentials" msgid="1915881596632385418">"गलत एक-पटके टेक्स्ट म्यासेज वा पासवर्ड"</string>
     <string name="callFailed_out_of_network" msgid="3725361800376129141">"आउट-अफ-नेटवर्क कल"</string>
     <string name="callFailed_server_error" msgid="8449565039784274698">"सर्भर त्रुटि। पछि पुनःप्रयास गर्नुहोस्।"</string>
     <string name="callFailed_noSignal" msgid="7700332004458210245">"सङ्केत छैन"</string>
