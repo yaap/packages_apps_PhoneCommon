@@ -22,7 +22,7 @@
     <string name="description_delete_button" msgid="3440492396168418449">"బ్యాక్‌స్పేస్"</string>
     <string name="description_image_button_plus" msgid="5473715983314974482">"కూడిక"</string>
     <string name="description_voicemail_button" msgid="3215317707268642855">"వాయిస్ మెయిల్"</string>
-    <string name="default_notification_description" msgid="7586091743351742205">"డిఫాల్ట్ ధ్వని (<xliff:g id="DEFAULT_SOUND_TITLE">%1$s</xliff:g>)"</string>
+    <string name="default_notification_description" msgid="7586091743351742205">"ఆటోమేటిక్ సౌండ్ (<xliff:g id="DEFAULT_SOUND_TITLE">%1$s</xliff:g>)"</string>
     <string name="callFailed_userBusy" msgid="8760595520859373561">"లైన్ బిజీగా ఉంది"</string>
     <string name="callFailed_congestion" msgid="660130739882090863">"నెట్‌వర్క్ బిజీగా ఉంది"</string>
     <string name="callFailed_timedOut" msgid="6780964135550644777">"ప్రతిస్పందన లేదు, సమయం ముగిసింది"</string>
