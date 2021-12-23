@@ -56,7 +56,7 @@
     <string name="ringtone_silent" msgid="1173111569760233645">"Geen"</string>
     <string name="ringtone_unknown" msgid="3036191370493284036">"Onbekende ringtone"</string>
     <string name="callFailed_maximum_reached" msgid="6704266142192963900">"Alle beschikbare lijnen zijn in gebruik. Als je wilt bellen, verbreek je de verbinding in een van de gesprekken op dit apparaat of op een van je andere apparaten."</string>
-    <string name="callFailed_data_disabled" msgid="8592999219489448277">"Het gesprek is beëindigd omdat mobiele data zijn uitgeschakeld."</string>
+    <string name="callFailed_data_disabled" msgid="8592999219489448277">"Het gesprek is beëindigd omdat mobiele data uitstaan."</string>
     <string name="callFailed_data_limit_reached_description" msgid="3739097798746751739">"Het gesprek is beëindigd omdat de limiet voor mobiele data is bereikt."</string>
     <string name="callFailed_data_limit_reached" msgid="3018609096563149722">"Datalimiet bereikt. Gesprek beëindigd."</string>
 </resources>
