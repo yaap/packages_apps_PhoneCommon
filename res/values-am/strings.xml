@@ -29,7 +29,7 @@
     <string name="callFailed_server_unreachable" msgid="7004372091099175338">"አገልጋይ አይደረስበትም"</string>
     <string name="callFailed_number_unreachable" msgid="2855741498610643943">"ቁጥር አይደረስበትም"</string>
     <string name="callFailed_invalid_credentials" msgid="1915881596632385418">"የተሳሳተ የተጠቃሚ ስም ወይም ይለፍ ቃል"</string>
-    <string name="callFailed_out_of_network" msgid="3725361800376129141">"ከአውታረ መረብ ውጪ የሆነ ጥሪ"</string>
+    <string name="callFailed_out_of_network" msgid="3725361800376129141">"ከአውታረ መረብ ውጭ የሆነ ጥሪ"</string>
     <string name="callFailed_server_error" msgid="8449565039784274698">"የአገልጋይ ስህተት። ቆይተው እንደገና ይሞክሩ።"</string>
     <string name="callFailed_noSignal" msgid="7700332004458210245">"ምንም ምልክት የለም"</string>
     <string name="callFailed_limitExceeded" msgid="2877263157928717415">"የኤሲኤም ገደብ ታልፏል"</string>
