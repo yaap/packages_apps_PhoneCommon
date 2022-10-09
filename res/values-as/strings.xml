@@ -46,9 +46,9 @@
     <string name="callFailed_dialVideoToDial" msgid="160029277192677751">"সাধাৰণ কললৈ সলনি কৰা হৈছিল"</string>
     <string name="callFailed_dialVideoToDialVideo" msgid="3976695729414283836">"বেলেগ নম্বৰলৈ সলনি কৰা হৈছিল"</string>
     <string name="callFailed_cb_enabled" msgid="3555984829657638323">"কল প্ৰতিবন্ধক অন হৈ থাকোঁতে বহিৰ্গামী কল কৰিব নোৱাৰি।"</string>
-    <string name="callFailed_dsac_restricted" msgid="4073547013432506074">"প্ৰৱেশ নিয়ন্ত্ৰকৰ দ্বাৰা কল সীমিত কৰা হৈছে।"</string>
-    <string name="callFailed_dsac_restricted_emergency" msgid="3271861683273124458">"প্ৰৱেশ নিয়ন্ত্ৰকৰ দ্বাৰা জৰুৰীকালীন কল সীমিত কৰা হৈছে।"</string>
-    <string name="callFailed_dsac_restricted_normal" msgid="2812267231481193715">"প্ৰৱেশ নিয়ন্ত্ৰকৰ দ্বাৰা সাধাৰণ কল সীমিত কৰা হৈছে।"</string>
+    <string name="callFailed_dsac_restricted" msgid="4073547013432506074">"এক্সেছ নিয়ন্ত্ৰকৰ দ্বাৰা কল প্ৰতিবন্ধিত কৰা হৈছে।"</string>
+    <string name="callFailed_dsac_restricted_emergency" msgid="3271861683273124458">"এক্সেছ নিয়ন্ত্ৰকৰ দ্বাৰা জৰুৰীকালীন কল প্ৰতিবন্ধিত কৰা হৈছে।"</string>
+    <string name="callFailed_dsac_restricted_normal" msgid="2812267231481193715">"এক্সেছ নিয়ন্ত্ৰকৰ দ্বাৰা সাধাৰণ কল প্ৰতিবন্ধিত কৰা হৈছে।"</string>
     <string name="callFailed_unobtainable_number" msgid="2048455732432022283">"অমান্য নম্বৰ"</string>
     <string name="incall_error_missing_voicemail_number" msgid="4519524908114719666">"ভইচমেইলৰ নম্বৰ অজ্ঞাত।"</string>
     <string name="callFailed_video_call_tty_enabled" msgid="5419496275850000361">"TTY সক্ষম হৈ কৰি থোৱা অৱস্থাত ভিডিঅ\' কল কৰিব নোৱাৰি।"</string>
