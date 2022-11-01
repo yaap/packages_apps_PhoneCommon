@@ -30,7 +30,7 @@
     <string name="callFailed_number_unreachable" msgid="2855741498610643943">"নম্বৰ সংযোগ সীমাৰ বাহিৰত"</string>
     <string name="callFailed_invalid_credentials" msgid="1915881596632385418">"ব্যৱহাৰকাৰীৰ নাম বা পাছৱর্ড ভুল হৈছে"</string>
     <string name="callFailed_out_of_network" msgid="3725361800376129141">"নেটৱৰ্কৰ বাহিৰৰ কল"</string>
-    <string name="callFailed_server_error" msgid="8449565039784274698">"ছাৰ্ভাৰৰ আসোঁৱাহ। পিছত আকৌ চেষ্টা কৰক।"</string>
+    <string name="callFailed_server_error" msgid="8449565039784274698">"ছাৰ্ভাৰৰ আসোঁৱাহ। পাছত আকৌ চেষ্টা কৰক।"</string>
     <string name="callFailed_noSignal" msgid="7700332004458210245">"কোনো ছিগনেল নাই"</string>
     <string name="callFailed_limitExceeded" msgid="2877263157928717415">"ACM সীমা অতিক্ৰম কৰা হৈছে"</string>
     <string name="callFailed_powerOff" msgid="2212239757387143765">"ৰেডিঅ’ অফ হৈ আছে"</string>
