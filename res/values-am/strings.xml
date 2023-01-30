@@ -55,7 +55,7 @@
     <string name="callEnded_pulled" msgid="4824518546417807865">"ጥሪው ወደ ሌላ መሣሪያ ተዘዋውሯል።"</string>
     <string name="ringtone_silent" msgid="1173111569760233645">"ምንም"</string>
     <string name="ringtone_unknown" msgid="3036191370493284036">"ያልታወቀ የጥሪ ቅላጼ"</string>
-    <string name="callFailed_maximum_reached" msgid="6704266142192963900">"ሁሉም መስመሮች ተይዘዋል። ጥሪ ለማድረግ በዚህ መሳሪያ ወይም ከሌሎች መሳሪያዎችዎ በአንዱ ላይ ካሉት ጥሪዎች አንዱን ያቋርጡ።"</string>
+    <string name="callFailed_maximum_reached" msgid="6704266142192963900">"ሁሉም መስመሮች ተይዘዋል። ጥሪ ለማድረግ በዚህ መሣሪያ ወይም ከሌሎች መሣሪያዎችዎ በአንዱ ላይ ካሉት ጥሪዎች አንዱን ያቋርጡ።"</string>
     <string name="callFailed_data_disabled" msgid="8592999219489448277">"የሴሉላር ውሂብ በመወገዱ ጥሪው ተቋርጧል።"</string>
     <string name="callFailed_data_limit_reached_description" msgid="3739097798746751739">"የሴሉላር ውሂብ ገደብ ላይ በመደረሱ ጥሪው አብቅቷል።"</string>
     <string name="callFailed_data_limit_reached" msgid="3018609096563149722">"የውሂብ ገደብ ላይ ተደርሷል። ጥሪ አብቅቷል።"</string>
