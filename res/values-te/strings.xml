@@ -18,7 +18,7 @@
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="description_dialpad_back" msgid="6948371942814365471">"వెనుకకు నావిగేట్ చేస్తుంది"</string>
-    <string name="description_dialpad_overflow" msgid="386545562915853251">"మరిన్ని ఎంపికలు"</string>
+    <string name="description_dialpad_overflow" msgid="386545562915853251">"మరిన్ని ఆప్షన్‌లు"</string>
     <string name="description_delete_button" msgid="3440492396168418449">"బ్యాక్‌స్పేస్"</string>
     <string name="description_image_button_plus" msgid="5473715983314974482">"కూడిక"</string>
     <string name="description_voicemail_button" msgid="3215317707268642855">"వాయిస్ మెయిల్"</string>
