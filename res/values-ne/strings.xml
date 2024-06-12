@@ -35,7 +35,7 @@
     <string name="callFailed_limitExceeded" msgid="2877263157928717415">"ACM सीमा पार भयो"</string>
     <string name="callFailed_powerOff" msgid="2212239757387143765">"रेडियो बन्द"</string>
     <string name="callFailed_simError" msgid="510948380244092037">"सिम छैन वा सिम त्रुटि"</string>
-    <string name="callFailed_outOfService" msgid="2917536349269880601">"सेलुलर सञ्जाल उपलब्ध छैन"</string>
+    <string name="callFailed_outOfService" msgid="2917536349269880601">"सेलुलर नेटवर्क उपलब्ध छैन"</string>
     <string name="callFailed_fdn_only" msgid="584249308311672690">"FDN द्वारा बहिर्गमन कल निषेधित गरिएको छ।"</string>
     <string name="callFailed_dialToUssd" msgid="6794913139176808973">"कल USSD अनुरोधमा परिवर्तन गरियो"</string>
     <string name="callFailed_dialToSs" msgid="6749473185855000519">"कल SS अनुरोधमा परिवर्तन गरियो"</string>
