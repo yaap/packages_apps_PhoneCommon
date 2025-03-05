@@ -57,6 +57,6 @@
     <string name="ringtone_unknown" msgid="3036191370493284036">"Nepoznato zvono"</string>
     <string name="callFailed_maximum_reached" msgid="6704266142192963900">"Sve dostupne linije su zauzete. Da uputite poziv, prekinite jedan od poziva na ovom uređaju ili na nekom od drugih uređaja."</string>
     <string name="callFailed_data_disabled" msgid="8592999219489448277">"Poziv je završen jer je prijenos podataka na mobilnoj mreži onemogućen."</string>
-    <string name="callFailed_data_limit_reached_description" msgid="3739097798746751739">"Poziv je završen jer je dostignut limit prijenosa podataka na mobilnoj mreži."</string>
+    <string name="callFailed_data_limit_reached_description" msgid="3739097798746751739">"Poziv je završen jer je dostignut limit prenosa podataka na mobilnoj mreži."</string>
     <string name="callFailed_data_limit_reached" msgid="3018609096563149722">"Dostignut je limit podataka. Poziv je završen."</string>
 </resources>
