@@ -45,7 +45,7 @@
     <string name="callFailed_dialVideoToUssd" msgid="4479951468674677111">"‏ویڈیو کال کو USSD درخواست میں تبدیل کر دیا گیا"</string>
     <string name="callFailed_dialVideoToDial" msgid="160029277192677751">"ریگولر کال میں تبدیل کر دیا گیا"</string>
     <string name="callFailed_dialVideoToDialVideo" msgid="3976695729414283836">"مختلف نمبر میں تبدیل کر دیا گیا"</string>
-    <string name="callFailed_cb_enabled" msgid="3555984829657638323">"کال کی بندش آن ہونے پر آؤٹ گوئنگ کالز نہیں کر سکتے۔"</string>
+    <string name="callFailed_cb_enabled" msgid="3555984829657638323">"کال کی بندش آن ہونے پر آؤٹ گوئنگ کالز نہیں کی جا سکتیں۔"</string>
     <string name="callFailed_dsac_restricted" msgid="4073547013432506074">"کالز رسائی کنٹرول کے ذریعہ محدود کر دی گئیں۔"</string>
     <string name="callFailed_dsac_restricted_emergency" msgid="3271861683273124458">"ایمرجنسی کالز رسائی کنٹرول کے ذریعہ محدود کر دی گئیں۔"</string>
     <string name="callFailed_dsac_restricted_normal" msgid="2812267231481193715">"معمول کی کالز رسائی کنٹرول کے ذریعہ محدود کر دی گئیں۔"</string>
