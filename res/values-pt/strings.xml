@@ -25,7 +25,7 @@
     <string name="default_notification_description" msgid="7586091743351742205">"Som padrão (<xliff:g id="DEFAULT_SOUND_TITLE">%1$s</xliff:g>)"</string>
     <string name="callFailed_userBusy" msgid="8760595520859373561">"Linha ocupada"</string>
     <string name="callFailed_congestion" msgid="660130739882090863">"Rede ocupada"</string>
-    <string name="callFailed_timedOut" msgid="6780964135550644777">"Nenhuma resposta, tempo limite expirou"</string>
+    <string name="callFailed_timedOut" msgid="6780964135550644777">"Nenhuma resposta. O tempo limite expirou"</string>
     <string name="callFailed_server_unreachable" msgid="7004372091099175338">"Servidor não acessível"</string>
     <string name="callFailed_number_unreachable" msgid="2855741498610643943">"Número não acessível"</string>
     <string name="callFailed_invalid_credentials" msgid="1915881596632385418">"Nome de usuário ou senha incorretos"</string>
